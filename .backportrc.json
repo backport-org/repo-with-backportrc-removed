@@ -1,0 +1,7 @@
+{
+  "upstream": "backport-org/repo-with-backportrc-removed",
+  "targetBranchChoices": [
+    { "name": "master", "checked": true },
+    { "name": "7.x" }
+  ]
+}
